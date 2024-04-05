@@ -24,8 +24,6 @@ For this project, we will tackle a Frontend Mentor design.
 
 You'll be led to use the knowledge you acquired on CSS (the basics, flex, grid and media queries) to do a perfectly responsive website.
 
-The mission is simple, you have to perfectly reproduce this design : **[FIGMA FILE](https://www.figma.com/file/87gRFe00lSsdbnQx83jufY/FLEX-GRID-RESPONSIVE?type=design&node-id=0%3A1&mode=dev)**
-
 The graphic designer gave you all the elements so you can code the thing yourself.
 
 Don't forget to check my general usefull tips.
